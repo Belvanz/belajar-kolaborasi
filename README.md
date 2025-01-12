@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Perubahan ketiga.
+Perubahan ke-3.
